@@ -1,6 +1,3 @@
-</body>
-<head><base target="_blank"></head>
-
 ### Hi there 👋
 I am Dweep J, 15 year old programmer, proficient in ~
 - Python and TensorFlow, Keras, PyTorch, NumPy
