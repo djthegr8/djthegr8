@@ -7,7 +7,7 @@ I am Dweep J, 15 year old programmer, proficient in ~
      
 Go to [my website](https://djthegr8.github.io) for a TFjS Face Recognition Demo    
      
-I have a few blogs [on Medium](https://medium.com/@dweepjoshipuracar) and [my own blog, LightSpeedAC](https://lightspeedac.blogspot.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
+I have a few blogs [on Medium](https://dj-ai.medium.com/) and [my own blog, LightSpeedAC](https://lightspeedac.blogspot.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
 My AI specialization is in Computer Vision and am learning about GANs, although I do a bit of NLP and Structured Data too.    
      
 Reach me at [my mail](mailto:dweepsjoshipuracar@gmail.com) for any collaborations!
