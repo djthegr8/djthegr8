@@ -5,14 +5,22 @@ I am Dweep J, 15 year old programmer, proficient in ~
 - C# with WPF and Web API integration in Console Applications
 - MATLAB, with syms         
                        
-[![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true)]
+I've contributed to several open-source repositories for ML applications, including 
+* [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models "Tensorflow.jS Models")
+* [`cansik/yolo-hand-detection`](https://github.com/cansik/yolo-hand-detection "YOLO Hand Detection")
+                              
+And have opened PRs on 
+* [`google/mediapipe`](https://github.com/google/mediapipe "Mediapipe")
+* [`vladmandic/human`](https://github.com/vladmandic/human "Human")
+<br /><br />
+![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true)
                                      
 Go to [my website](https://djthegr8.github.io) for a TFjS Face Recognition Demo    
      
 I have a few blogs [on Medium](https://dj-ai.medium.com/) and [my own blog, LightSpeedAC](https://lightspeedac.blogspot.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
 My AI specialization is in Computer Vision and am learning about GANs, although I do a bit of NLP and Structured Data too.    
      
-Reach me at [my mail](mailto:dweepsjoshipuracar@gmail.com) for any collaborations!
+Reach me at [my mail](mailto:dweepjoshipuracar@gmail.com) for any collaborations!
 <!--
 **djthegr8/djthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
