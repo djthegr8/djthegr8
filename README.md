@@ -12,6 +12,7 @@ I've contributed to several open-source repositories for ML applications, includ
 And have opened PRs on 
 * [`google/mediapipe`](https://github.com/google/mediapipe "Mediapipe")
 * [`vladmandic/human`](https://github.com/vladmandic/human "Human")
+* [`FluxML/NNlib,jl`](https://github.com/FluxML/NNlib.jl "NNLib Julia")
 <br /><br />
 ![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true)
                                      
