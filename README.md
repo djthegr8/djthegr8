@@ -12,8 +12,9 @@ I've contributed to several open-source repositories for ML applications, includ
 And have opened PRs on 
 * [`google/mediapipe`](https://github.com/google/mediapipe "Mediapipe")
 <br /><br />
-![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true&include_all_commits=true)
-                                     
+![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true&include_all_commits=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djthegr8&theme=gruvbox)
+
 Go to [my website](https://djthegr8.github.io) for a TFjS Face Recognition Demo    
      
 I have a few blogs [on Medium](https://dj-ai.medium.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
