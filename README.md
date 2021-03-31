@@ -12,7 +12,7 @@ I've contributed to several open-source repositories for ML applications, includ
 And have opened PRs on 
 * [`google/mediapipe`](https://github.com/google/mediapipe "Mediapipe")
 <br /><br />
-![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true)
+![Dweep's github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true&include_all_commits=true)
                                      
 Go to [my website](https://djthegr8.github.io) for a TFjS Face Recognition Demo    
      
