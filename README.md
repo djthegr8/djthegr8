@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am DJ, 15 year old programmer, proficient in ~
+I am DJ, 16 year old programmer, proficient in ~
 - Python and TensorFlow, Keras, PyTorch, NumPy
 - jS with TFjS
 - C# with WPF and Web API integration in Console Applications
