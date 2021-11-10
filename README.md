@@ -4,6 +4,7 @@ I am DJ, 16 year old programmer, proficient in ~
 - jS with TFjS
 - C# with WPF and Web API integration in Console Applications
 - MATLAB, with syms         
+- Learning a little rust ([Read here!](https://towardsdatascience.com/write-better-match-statements-in-rust-7458402afacd))
                        
 I've contributed to several open-source repositories for ML applications, including 
 * [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models "Tensorflow.jS Models")
