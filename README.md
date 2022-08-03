@@ -21,7 +21,6 @@ Go to [my website](https://djthegr8.github.io) for a TFjS Face Recognition Demo
 I have a few blogs [on Medium](https://dj-ai.medium.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
 My AI specialization is in Computer Vision and am learning about GANs, although I do a bit of NLP and Structured Data too.    
      
-Reach me at [my mail](mailto:dweepjoshipuracar@gmail.com) for any collaborations!
 <!--
 **djthegr8/djthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
