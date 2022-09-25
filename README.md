@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&line_height=20)
+//![Github stats](https://github-readme-stats.vercel.app/api?username=djthegr8&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&line_height=20)
+![](https://raw.githubusercontent.com/djthegr8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/djthegr8/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djthegr8&theme=synthwave&layout=compact)
      
 I have a few blogs [on Medium](https://dj-ai.medium.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
