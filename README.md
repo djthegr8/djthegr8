@@ -1,13 +1,13 @@
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/djthegr8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/djthegr8/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-     
+
 I have a few blogs [on Medium](https://dj-ai.medium.com/), mostly regarding Artificial Intelligence, and a few tutorials on my own blog.   
 My AI specialization is in Computer Vision and am learning about GANs, although I do a bit of NLP and Structured Data too.    
      
 <!--
 **djthegr8/djthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+e
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
